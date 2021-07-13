@@ -37,7 +37,7 @@ Windows
 
 Using CMD run the following command:
 
-pip install scikit-learn
+:>pip install scikit-learn
 
 Linux
 
@@ -54,7 +54,7 @@ Windows
 
 Using CMD run the following command:
 
-pip install pandas
+:>pip install pandas
 
 Linux
 
@@ -71,7 +71,7 @@ Windows
 
 Using CMD run the following command:
 
-pip install matplotlib
+:>pip install matplotlib
 
 Linux
 
